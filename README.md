@@ -3,10 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-NateGiesbrecht-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nate-giesbrecht/)](https://www.linkedin.com/in/nate-giesbrecht/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://nategiesbrecht.github.io/)](https://nategiesbrecht.github.io/) <p align='left'>I am a 4th year CS Co-op student at the University of Manitoba.
 
-I have a passion for web development and love creating fun and silly projects for myself and my friends to use!</p>
-<p align='left'>I am experienced in Vue.js and have recently been teaching myself React for the creation of my personal website as well as a web application called Putter.</p>
-<p align='left'>Putter allows users to find groups of people wanting to play sports based on location, and also allows for the booking of court or tee times if applicable. </p>
-<p align='left'> You can view my resume <a href='https://www.chrisrogers.dev ' target=_blank><u>here</u>.</a></p>
+I have a love for development! I have worked on full stack web development, cloud development and game development using unity!</p>
+<p align='left'> You can view my resume <a href='https://nategiesbrecht.github.io/images/Resume.pdf' target=_blank><u>here</u>.</a></p>
 
 ### Some of my Github Stats:
 
@@ -15,19 +13,3 @@ I have a passion for web development and love creating fun and silly projects fo
 [![Github stats](https://github-readme-stats.vercel.app/api?username=NateGiesbrecht&show_icons=true&include_all_commits=true)](https://github.com/NateGiesbrecht/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NateGiesbrecht&layout=compact)](https://github.com/NateGiesbrecht/github-readme-stats)
 
-### Hi there 👋
-
-<!--
-**NateGiesbrecht/NateGiesbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
