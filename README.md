@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Nate Giesbrecht!
-[![Gmail Badge](https://img.shields.io/badge/-nathangiesbrecht8@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nathangiesbrecht_8@hotmail.com)](nathangiesbrecht_8@hotmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-nathangiesbrecht_8@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nathangiesbrecht_8@hotmail.com)](mailto:nathangiesbrecht_8@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-NateGiesbrecht-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nate-giesbrecht/)](https://www.linkedin.com/in/nate-giesbrecht/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://nategiesbrecht.github.io/)](https://nategiesbrecht.github.io/) <p align='left'>I am a 4th year CS Co-op student at the University of Manitoba.
 
