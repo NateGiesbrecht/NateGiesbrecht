@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Nate Giesbrecht!
 [![Gmail Badge](https://img.shields.io/badge/-nathangiesbrecht_8@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nathangiesbrecht_8@hotmail.com)](mailto:nathangiesbrecht_8@hotmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-NateGiesbrecht-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nate-giesbrecht/)](https://www.linkedin.com/in/nate-giesbrecht/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://nategiesbrecht.github.io/)](https://nategiesbrecht.github.io/) <p align='left'>I am a 4th year CS Co-op student at the University of Manitoba.
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://nategiesbrecht.github.io/)](https://nategiesbrecht.github.io/) <p align='left'>I am a CS Co-op graduate from the University of Manitoba.
 
 I have a love for development! I have worked on full stack web development, cloud development and game development using unity!</p>
 <p align='left'> You can view my resume <a href='https://nategiesbrecht.github.io/images/Resume.pdf' target=_blank><u>here</u>.</a></p>
